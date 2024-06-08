@@ -1,0 +1,1142 @@
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\DynaIT.dll.config
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\DynaIT.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\DynaIT.pdb
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\csi.exe.config
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Console.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Antlr3.Runtime.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\System.Web.Optimization.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\WebGrease.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\System.Web.Optimization.xml
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CopyComplete
+C:\Users\Admin\source\repos\DynaIT\DynaIT\obj\Debug\DynaIT.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\obj\Debug\DynaIT.pdb
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\MySql.Data.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Google.Protobuf.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Zstandard.Net.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\BouncyCastle.Crypto.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Ubiety.Dns.Core.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\Renci.SshNet.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\System.Buffers.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\K4os.Compression.LZ4.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\K4os.Hash.xxHash.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\System.Memory.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\DynaIT\DynaIT\bin\MySql.Data.xml
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\obj\Debug\DynaIT.csprojAssemblyReference.cache
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CoreCompileInputs.cache
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\obj\Debug\DynaIT.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\obj\Debug\DynaIT.pdb
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\DynaIT.dll.config
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\DynaIT.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\DynaIT.pdb
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\csc.exe
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\csc.exe.config
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\csc.rsp
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\csi.exe
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\csi.exe.config
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\csi.rsp
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.AppContext.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Console.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Globalization.Calendars.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Net.Http.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Net.Sockets.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.ValueTuple.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\vbc.exe
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\vbc.exe.config
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\vbc.rsp
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Antlr3.Runtime.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\AspNet.ScriptManager.jQuery.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Newtonsoft.Json.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\System.Web.Optimization.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\WebGrease.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Google.Protobuf.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\BouncyCastle.Crypto.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Ubiety.Dns.Core.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Renci.SshNet.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\System.Web.Optimization.xml
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Newtonsoft.Json.xml
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Antlr3.Runtime.pdb
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\es\System.Web.Optimization.resources.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Users\ASUS\Desktop\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CopyComplete
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\DynaIT.dll.config
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\DynaIT.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\DynaIT.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csc.exe
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csc.rsp
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csi.exe
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csi.exe.config
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csi.rsp
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Console.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\vbc.exe
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\BouncyCastle.Crypto.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Devart.Data.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Devart.Data.MySql.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\DocumentFormat.OpenXml.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\DotNetZip.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Elasticsearch.Net.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\ExpressionEvaluator.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Google.Protobuf.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\GSF.Core.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Ionic.Zip.Reduced.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\itextsharp.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Hash.xxHash.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.JSInterop.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\MySql.Data.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\OpenXmlPowerTools.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\PagedList.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\PagedList.Mvc.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Buffers.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Collections.Immutable.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Management.Automation.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Memory.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Numerics.Vectors.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Reflection.Metadata.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Text.Encodings.Web.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Text.Json.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.ValueTuple.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Ubiety.Dns.Core.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Universal.Microsoft.JSInterop.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\WebGrease.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Zstandard.Net.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\DocumentFormat.OpenXml.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\DotNetZip.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\DotNetZip.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Elasticsearch.Net.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Elasticsearch.Net.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Google.Protobuf.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Google.Protobuf.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\GSF.Core.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\itextsharp.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Hash.xxHash.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.JSInterop.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\MySql.Data.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\PagedList.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\PagedList.Mvc.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Buffers.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Collections.Immutable.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Memory.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Numerics.Vectors.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Reflection.Metadata.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Text.Encodings.Web.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Text.Json.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.ValueTuple.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Universal.Microsoft.JSInterop.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CopyComplete
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\obj\Debug\DynaIT.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\andres\Dynamics_IT\DynaIT\DynaIT\obj\Debug\DynaIT.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\DynaIT.dll.config
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\DynaIT.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\DynaIT.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csc.exe
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csc.rsp
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csi.exe
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csi.exe.config
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\csi.rsp
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Console.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\vbc.exe
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\BouncyCastle.Crypto.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Devart.Data.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Devart.Data.MySql.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\DocumentFormat.OpenXml.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\DotNetZip.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Elasticsearch.Net.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\ExpressionEvaluator.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Google.Protobuf.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\GSF.Core.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Ionic.Zip.Reduced.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\itextsharp.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Hash.xxHash.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.JSInterop.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\MySql.Data.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\OpenXmlPowerTools.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\PagedList.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\PagedList.Mvc.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Buffers.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Collections.Immutable.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Management.Automation.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Memory.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Numerics.Vectors.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Reflection.Metadata.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Text.Encodings.Web.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Text.Json.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.ValueTuple.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Ubiety.Dns.Core.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Universal.Microsoft.JSInterop.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\WebGrease.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Zstandard.Net.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\DocumentFormat.OpenXml.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\DotNetZip.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\DotNetZip.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Elasticsearch.Net.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Elasticsearch.Net.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Google.Protobuf.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Google.Protobuf.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\GSF.Core.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\itextsharp.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\K4os.Hash.xxHash.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.JSInterop.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\MySql.Data.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\PagedList.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\PagedList.Mvc.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Buffers.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Collections.Immutable.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Memory.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Numerics.Vectors.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Reflection.Metadata.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Text.Encodings.Web.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Text.Json.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.ValueTuple.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Universal.Microsoft.JSInterop.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CopyComplete
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\obj\Debug\DynaIT.dll
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\obj\Debug\DynaIT.pdb
+C:\Users\Administrador\Documents\trabajo Dynamics\nueva base de datos\Dynamics_IT\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\DynaIT.dll.config
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\DynaIT.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\DynaIT.pdb
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\csc.rsp
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\csi.exe
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\csi.exe.config
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\csi.rsp
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Console.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\BouncyCastle.Crypto.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Devart.Data.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Devart.Data.MySql.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\DocumentFormat.OpenXml.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Elasticsearch.Net.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Google.Protobuf.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Ionic.Zip.Reduced.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\itextsharp.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\itextsharp.xmlworker.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\K4os.Compression.LZ4.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\K4os.Hash.xxHash.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\MySql.Data.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\OpenXmlPowerTools.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\PagedList.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Buffers.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Management.Automation.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Memory.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Numerics.Vectors.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Text.Encodings.Web.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Text.Json.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.ValueTuple.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Ubiety.Dns.Core.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\WebGrease.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Zstandard.Net.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\DocumentFormat.OpenXml.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Elasticsearch.Net.pdb
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Elasticsearch.Net.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Google.Protobuf.pdb
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Google.Protobuf.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\itextsharp.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\K4os.Compression.LZ4.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\K4os.Hash.xxHash.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\MySql.Data.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\PagedList.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Buffers.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Collections.Immutable.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Memory.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Numerics.Vectors.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Reflection.Metadata.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Text.Encodings.Web.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Text.Json.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.ValueTuple.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CopyComplete
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\obj\Debug\DynaIT.dll
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\obj\Debug\DynaIT.pdb
+C:\Users\Administrador\Desktop\dynamics\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\documentos\DynaIT\bin\DynaIT.dll.config
+C:\Users\Javier\Documents\documentos\DynaIT\bin\DynaIT.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\DynaIT.pdb
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\csc.exe
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\csc.exe.config
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\csc.rsp
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\csi.exe
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\csi.exe.config
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\csi.rsp
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.AppContext.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Console.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Net.Http.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\vbc.exe
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\vbc.exe.config
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\vbc.rsp
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Javier\Documents\documentos\DynaIT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Antlr3.Runtime.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\BouncyCastle.Crypto.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Devart.Data.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Devart.Data.MySql.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\DocumentFormat.OpenXml.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Elasticsearch.Net.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Google.Protobuf.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Ionic.Zip.Reduced.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\itextsharp.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\itextsharp.xmlworker.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\K4os.Compression.LZ4.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\K4os.Hash.xxHash.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\MySql.Data.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Newtonsoft.Json.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\OpenXmlPowerTools.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\PagedList.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Buffers.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Collections.Immutable.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Management.Automation.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Memory.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Net.Http.Formatting.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Numerics.Vectors.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Reflection.Metadata.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Text.Encodings.Web.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Text.Json.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.ValueTuple.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Web.Optimization.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Ubiety.Dns.Core.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\WebGrease.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Zstandard.Net.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\DocumentFormat.OpenXml.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Elasticsearch.Net.pdb
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Elasticsearch.Net.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Google.Protobuf.pdb
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Google.Protobuf.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\itextsharp.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\K4os.Compression.LZ4.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\K4os.Hash.xxHash.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\MySql.Data.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Newtonsoft.Json.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\PagedList.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Buffers.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Collections.Immutable.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Memory.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Net.Http.Formatting.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Numerics.Vectors.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Reflection.Metadata.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Text.Encodings.Web.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Text.Json.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.ValueTuple.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\System.Web.Optimization.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Antlr3.Runtime.pdb
+C:\Users\Javier\Documents\documentos\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Javier\Documents\documentos\DynaIT\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Javier\Documents\documentos\DynaIT\obj\Debug\DynaIT.csproj.ResolveComReference.cache
+C:\Users\Javier\Documents\documentos\DynaIT\obj\Debug\DynaIT.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\documentos\DynaIT\obj\Debug\DynaIT.csproj.CopyComplete
+C:\Users\Javier\Documents\documentos\DynaIT\obj\Debug\DynaIT.dll
+C:\Users\Javier\Documents\documentos\DynaIT\obj\Debug\DynaIT.pdb
+C:\Users\Javier\Documents\documentos\DynaIT\bin\ClosedXML.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\ExcelNumberFormat.dll
+C:\Users\Javier\Documents\documentos\DynaIT\bin\ClosedXML.pdb
+C:\Users\Javier\Documents\documentos\DynaIT\bin\ClosedXML.xml
+C:\Users\Javier\Documents\documentos\DynaIT\bin\ExcelNumberFormat.xml
+C:\Users\Javier\Documents\documentos\DynaIT\obj\Debug\DynaIT.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\DynaIT.dll.config
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\DynaIT.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\DynaIT.pdb
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\csc.exe
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\csc.exe.config
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\csc.rsp
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\csi.exe
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\csi.exe.config
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\csi.rsp
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.AppContext.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Console.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Net.Http.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\vbc.exe
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\vbc.exe.config
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\vbc.rsp
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Antlr3.Runtime.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\BouncyCastle.Crypto.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\ClosedXML.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Devart.Data.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Devart.Data.MySql.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\DocumentFormat.OpenXml.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Elasticsearch.Net.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\ExcelNumberFormat.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Google.Protobuf.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Ionic.Zip.Reduced.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\itextsharp.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\itextsharp.xmlworker.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\K4os.Hash.xxHash.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\MySql.Data.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Newtonsoft.Json.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\OpenXmlPowerTools.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\PagedList.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Buffers.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Collections.Immutable.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Management.Automation.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Memory.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Net.Http.Formatting.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Numerics.Vectors.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Reflection.Metadata.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Text.Encodings.Web.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Text.Json.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.ValueTuple.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Web.Optimization.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Ubiety.Dns.Core.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\WebGrease.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Zstandard.Net.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\ClosedXML.pdb
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\ClosedXML.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\DocumentFormat.OpenXml.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Elasticsearch.Net.pdb
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Elasticsearch.Net.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\ExcelNumberFormat.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Google.Protobuf.pdb
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Google.Protobuf.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\itextsharp.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\K4os.Hash.xxHash.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\MySql.Data.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Newtonsoft.Json.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\PagedList.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Buffers.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Collections.Immutable.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Memory.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Net.Http.Formatting.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Numerics.Vectors.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Reflection.Metadata.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Text.Encodings.Web.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Text.Json.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.ValueTuple.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\System.Web.Optimization.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Antlr3.Runtime.pdb
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.ResolveComReference.cache
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\obj\Debug\DynaIT.csproj.CopyComplete
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\obj\Debug\DynaIT.dll
+C:\Users\Javier\Documents\documentos\Trabajo DynamicsIT\DynaIT\DynaIT\obj\Debug\DynaIT.pdb
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\DynaIT.dll.config
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\DynaIT.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\DynaIT.pdb
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\csc.exe
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\csc.exe.config
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\csc.rsp
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\csi.exe
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\csi.exe.config
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\csi.rsp
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.AppContext.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Console.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.IO.Compression.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Net.Http.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.ValueTuple.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\vbc.exe
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\vbc.exe.config
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\vbc.rsp
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\VBCSCompiler.exe
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Antlr3.Runtime.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\BouncyCastle.Crypto.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\ClosedXML.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Devart.Data.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Devart.Data.MySql.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\DocumentFormat.OpenXml.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Elasticsearch.Net.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\ExcelNumberFormat.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Google.Protobuf.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Ionic.Zip.Reduced.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\itextsharp.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\itextsharp.xmlworker.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\K4os.Compression.LZ4.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\K4os.Hash.xxHash.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\MySql.Data.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Newtonsoft.Json.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\OpenXmlPowerTools.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\PagedList.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Buffers.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Collections.Immutable.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Management.Automation.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Memory.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Net.Http.Formatting.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Numerics.Vectors.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Reflection.Metadata.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Text.Encodings.Web.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Text.Json.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.ValueTuple.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Web.Optimization.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Ubiety.Dns.Core.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\WebGrease.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Zstandard.Net.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\ClosedXML.pdb
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\ClosedXML.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\DocumentFormat.OpenXml.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Elasticsearch.Net.pdb
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Elasticsearch.Net.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\ExcelNumberFormat.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Google.Protobuf.pdb
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Google.Protobuf.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\itextsharp.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\K4os.Compression.LZ4.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\K4os.Hash.xxHash.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\MySql.Data.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Newtonsoft.Json.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\PagedList.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Buffers.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Collections.Immutable.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Memory.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Net.Http.Formatting.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Numerics.Vectors.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Reflection.Metadata.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Text.Encodings.Web.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Text.Json.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.ValueTuple.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\System.Web.Optimization.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Antlr3.Runtime.pdb
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\es\System.Web.Optimization.resources.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\obj\Debug\DynaIT.csproj.ResolveComReference.cache
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\obj\Debug\DynaIT.csproj.CoreCompileInputs.cache
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\obj\Debug\DynaIT.csproj.CopyComplete
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\obj\Debug\DynaIT.dll
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\obj\Debug\DynaIT.pdb
+C:\Users\dinac\Desktop\REPOSITORIO CT\Control_tickets\DynaIT\obj\Debug\DynaIT.csproj.AssemblyReference.cache
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\DynaIT.dll.config
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\DynaIT.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\DynaIT.pdb
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\csc.exe
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\csc.exe.config
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\csc.rsp
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\csi.exe
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\csi.exe.config
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\csi.rsp
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.AppContext.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Console.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.IO.Compression.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Net.Http.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.ValueTuple.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\vbc.exe
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\vbc.exe.config
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\vbc.rsp
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\VBCSCompiler.exe
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Antlr3.Runtime.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\BouncyCastle.Crypto.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\ClosedXML.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Devart.Data.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Devart.Data.MySql.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\DocumentFormat.OpenXml.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Elasticsearch.Net.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\ExcelNumberFormat.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Google.Protobuf.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Ionic.Zip.Reduced.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\itextsharp.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\itextsharp.xmlworker.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\K4os.Compression.LZ4.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\K4os.Hash.xxHash.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\MySql.Data.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Newtonsoft.Json.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\OpenXmlPowerTools.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\PagedList.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Buffers.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Collections.Immutable.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Management.Automation.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Memory.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Net.Http.Formatting.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Numerics.Vectors.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Reflection.Metadata.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Text.Encodings.Web.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Text.Json.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.ValueTuple.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Web.Optimization.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Ubiety.Dns.Core.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\WebGrease.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Zstandard.Net.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\ClosedXML.pdb
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\ClosedXML.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\DocumentFormat.OpenXml.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Elasticsearch.Net.pdb
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Elasticsearch.Net.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\ExcelNumberFormat.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Google.Protobuf.pdb
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Google.Protobuf.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\itextsharp.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\K4os.Compression.LZ4.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\K4os.Hash.xxHash.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\MySql.Data.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Newtonsoft.Json.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\PagedList.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Buffers.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Collections.Immutable.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Memory.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Net.Http.Formatting.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Numerics.Vectors.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Reflection.Metadata.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Text.Encodings.Web.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Text.Json.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.ValueTuple.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\System.Web.Optimization.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Antlr3.Runtime.pdb
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\es\System.Web.Optimization.resources.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\obj\Debug\DynaIT.csproj.AssemblyReference.cache
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\obj\Debug\DynaIT.csproj.ResolveComReference.cache
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\obj\Debug\DynaIT.csproj.CoreCompileInputs.cache
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\obj\Debug\DynaIT.csproj.CopyComplete
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\obj\Debug\DynaIT.dll
+C:\Users\cerna\OneDrive\Escritorio\ParcialWeb\Control_tickets\DynaIT\obj\Debug\DynaIT.pdb

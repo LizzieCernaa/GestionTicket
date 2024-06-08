@@ -1,0 +1,301 @@
+﻿:root {
+    --white: white;
+    --black: black;
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.bg-dark {
+    background-color: rgb(186, 188, 194);
+    min-height: calc(100vh - 30px);
+    margin: 0;
+}
+
+.btn-ghost.round {
+    border-radius: 30px;
+    position: relative;
+    display: inline-block;
+    border: 2px solid var(--white);
+    padding: 10px 10px;
+    color: var(--black);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: var(--white);
+    transition: color 0.5s, 0.5s;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    font-size: 10px;
+    min-width: 30px;
+    text-align: center;
+}
+
+.btn-ghost.secundary {
+    background-color: transparent;
+    color: var(--black);
+    position: relative;
+    display: inline-block;
+    border: 2px solid var(--white);
+    padding: 10px 20px;
+    color: var(--black);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: transparent;
+    transition: color 0.5s, 0.5s;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    font-size: 11px;
+    min-width: 40px;
+    text-align: center;
+}
+
+.btn-ghost:hover {
+    color: var(--white);
+    background-color: transparent;
+}
+
+.btn-ghost.secundary:hover {
+    color: var(--black);
+    background-color: var(--white);
+}
+
+.col-2 {
+    border-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 2%;
+    padding: 0% 0% 0% 0%;
+}
+/*Pagina tickets generados*/
+.col-121 {
+    background-color: transparent;
+    color: var(--black);
+    position: relative;
+    display: inline-block;
+    border: 1px solid var(--white);
+    padding: 08px 05px 08px 05px;
+    color: var(--black);
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: transparent;
+    transition: color 0.5s, 0.5s;
+    margin: 1px;
+    font-size: 11px;
+    font-weight: 600;
+    min-width: 151px;
+    text-align: center;
+}
+
+    .col-121:hover {
+        color: var(--black);
+        background-color: #424C52;
+    }
+
+.btn-buscarTickets {
+    border-radius: 30px;
+    position: relative;
+    display: inline-block;
+    border: 1px solid var(--white);
+    padding: 08px 05px 08px 05px;
+    color: var(--black);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: var(--white);
+    transition: color 0.5s, 0.5s;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    font-size: 11px;
+    min-width: 130px;
+    text-align: center;
+}
+
+    .btn-buscarTickets:hover {
+        color: var(--white);
+        background-color: transparent;
+    }
+/*Generar tickets*/
+.card-default {
+    background-color: #EBEFF0;
+}
+
+.card-title {
+    color: #fff;
+    text-align: center;
+    padding: 1% 0 0 0;
+}
+
+.btn-crearticket {
+    border-radius: 30px;
+    position: relative;
+    display: inline-block;
+    border: 2px solid var(--black);
+    padding: 08px 05px 08px 05px;
+    color: var(--black);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: transparent;
+    transition: color 0.5s, 0.5s;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    font-size: 11px;
+    min-width: 130px;
+    text-align: center;
+}
+
+    .btn-crearticket:hover {
+        color: var(--white);
+        background-color: var(--black);
+    }
+
+.btn-cancelarticket {
+    border-radius: 30px;
+    position: relative;
+    display: inline-block;
+    border: 2px solid #424C52;
+    padding: 08px 05px 08px 05px;
+    color: var(--white);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #424C52;
+    transition: color 0.5s, 0.5s;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    font-size: 11px;
+    min-width: 130px;
+    text-align: center;
+}
+
+    .btn-cancelarticket:hover {
+        color: var(--white);
+        background-color: var(--black);
+        border: 2px solid var(--black);
+    }
+
+/*Total actas*/
+.menuActas {
+    background-color: #727272;
+    padding: 0 0 10px 0;
+}
+/*Crear empresa*/
+.bodycrearcliente {
+    background-color: #EBEFF0;
+}
+
+.btn-verdeshabilitados {
+    border-radius: 30px;
+    position: relative;
+    display: inline-block;
+    border: 2px solid #424C52;
+    padding: 08px 05px 08px 05px;
+    color: var(--black);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: transparent;
+    transition: color 0.5s, 0.5s;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    font-size: 11px;
+    min-width: 130px;
+    text-align: center;
+}
+
+    .btn-verdeshabilitados:hover {
+        color: var(--white);
+        background-color: var(--black);
+        border: 2px solid var(--black);
+    }
+
+.btn-verhabilitados {
+    border-radius: 30px;
+    position: relative;
+    display: inline-block;
+    border: 2px solid var(--black);
+    padding: 08px 05px 08px 05px;
+    color: var(--black);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: transparent;
+    transition: color 0.5s, 0.5s;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    font-size: 11px;
+    min-width: 130px;
+    text-align: center;
+}
+
+    .btn-verhabilitados:hover {
+        color: var(--white);
+        background-color: var(--black);
+        border: 2px solid var(--black);
+    }
+
+.btn-agregarempresa {
+    border-radius: 30px;
+    position: relative;
+    display: inline-block;
+    border: 2px solid #59666f;
+    padding: 08px 05px 08px 05px;
+    color: var(--white);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #59666f;
+    transition: color 0.5s, 0.5s;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    font-size: 11px;
+    min-width: 130px;
+    text-align: center;
+}
+
+    .btn-agregarempresa:hover {
+        color: var(--white);
+        background-color: #424C52;
+        border: 2px solid #424C52;
+    }
+
+.btn-cerrar {
+    border-radius: 30px;
+    position: relative;
+    display: inline-block;
+    border: 2px solid var(--white);
+    padding: 08px 05px 08px 05px;
+    color: var(--white);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: transparent;
+    transition: color 0.5s, 0.5s;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    font-size: 11px;
+    min-width: 130px;
+    text-align: center;
+}
+
+    .btn-cerrar:hover {
+        color: var(--black);
+        background-color: var(--white);
+        border: 2px solid var(--white);
+    }
+
+.todo {
+    display: grid;
+    gap: 1rem;
+    grid-auto-rows: 22rem;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr))
+}

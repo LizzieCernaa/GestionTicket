@@ -1,0 +1,197 @@
+﻿@import url('Style.css');
+
+
+
+
+
+body {
+    margin-top: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #EBEFF0;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.menuLateral {
+    background-color: #4DA7E4;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    padding-right: 35px;
+}
+
+.contenido {
+    padding: 1px;
+    margin: 0;
+    /*height: 100vh;*/
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 100vh;
+    border: none;
+    padding: 1px;
+    margin: 0;
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+/*se da color y heidin de 100% de acuerdo al dispositivo en los formularios de creacion*/
+.contenidoFormulariosCreacion {
+    background-color: aliceblue;
+    height: 100vh;
+    overflow: hidden;
+}
+/*se centra el formulario de un solo campo*/
+.formularioCreacion {
+    text-align: center;
+    margin: 10px 0px 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*clase para centrar tabla de los formularios de creación*/
+.GrillaInferior {
+    align-content: center;
+    height: 80vh;
+    width: 100%;
+    text-align: center
+}
+
+/*se centran los titulos y se le dan margenes*/
+.TitleForm {
+    text-align: center;
+    /*margin: 5px 0px 5px auto;*/
+}
+
+.bodycrearcliente {
+    background-color: aliceblue;
+    padding: 20px;
+    margin: 0;
+    width: 98%;
+    height: 100vh;
+}
+
+.div_titilo_crear_cliente {
+    margin: 12px;
+    padding: 7px;
+}
+
+.contenidoPlantilla {
+    padding: 1%;
+    margin: 1%;
+    height: 100%;
+    width: 80%;
+    position: fixed;
+}
+
+.selectEmpresa {
+    display: flex;
+    justify-content: center;
+}
+
+.asignarContraseña {
+    margin: 5px;
+    width: 30%;
+    text-align: center;
+    padding: 7px;
+}
+
+.alingCheckbox {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+/*clase para bordes de los DropDownList*/
+.bordesDrop {
+    border: hidden;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
+/*clase para organizar los div de la badeja de entrada*/
+.bandejaEntradaDiv {
+    border-radius: 3px;
+    background-color: dimgrey;
+    margin: 1px;
+    padding: 9px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.bandejaEntradaDivdos {
+    border-radius: 7px;
+    background-color: dimgrey;
+    margin: 1px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: antiquewhite;
+}
+
+.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+
+alinearColumnas {
+    padding: 0;
+    text-align: left;
+}
+
+#btn_limpiar {
+    background-image: src(../img/dynamics.jpg);
+    border: solid 3px;
+}
+
+.holaaa {
+    border: solid 3px;
+}
+
+.Tex_correo:invalid {
+    box-shadow: cadetblue -2px -2px 4px 1px;
+    border: solid red;
+}
+
+.div_chat_notas::-webkit-scrollbar {
+    width: 12px;
+}
+
+.div_chat_notas::-webkit-scrollbar-track {
+    width: 12px;
+    background-color: darkgray;
+}
+
+.div_chat_notas::-webkit-scrollbar-thumb {
+    background-color: blue;
+    border-radius: 20px;
+    border: 3px solid orange;
+}
+
+.div_chat_notas {
+    background-color: aqua;
+}
+
+
+/*-------------------------------moodal de perfil usuario para cambio de contraseña----------------------------------*/
