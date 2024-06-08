@@ -1,24 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
-//using MySql.Data.MySqlClient;
+
 using System.Data.SqlClient;
 
 namespace DynaIT.Clases
 {
     public class Validaciones
     {
-        //Atributos de conexion 
-        //public MySqlConnection conexion;
+
         public string error;
         Visualizar_Tickets Visualizar_Tickets = new Visualizar_Tickets();
-        static string conex = @"Integrated Security=True;Initial Catalog=DynaIT;Data Source=DESKTOP-L5T5BI3";
+        static string conex = @"Server=127.0.0.1,1433;Database=DynaIT;User Id=Lizzie;Password=NADA1234;";
         SqlConnection conexion = new SqlConnection(conex);
         public Validaciones()
         {
             this.conexion = Conexion_MySQL.getConexion();
         }
 
-        //      validar si existe el Nit de empresa 
+        
         public Boolean Existe_Nit(string codigo)
         {
             string sql = (" select * from empresa where Nit = @Nit ");
@@ -44,6 +43,7 @@ namespace DynaIT.Clases
             SqlCommand cmd = new SqlCommand("Validar_usu", conexion) { CommandType = System.Data.CommandType.StoredProcedure };
             cmd.Parameters.AddWithValue("@correo_usu", Correo);
             cmd.Parameters.AddWithValue("@contrasena_usu", Contrasena);
+            cmd.Parameters.AddWithValue("@usuario_Habilitado", Correo);
             cmd.Parameters.AddWithValue("@Patron", patron);
             //*** confronta la consulta o la insercion que le pido a mySQL y si me sale error en esta liena es por mal istruccion en la cadena de caracteres de mysql
             SqlDataReader registro = cmd.ExecuteReader();

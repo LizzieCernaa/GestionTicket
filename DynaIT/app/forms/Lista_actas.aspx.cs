@@ -23,7 +23,7 @@ namespace DynaIT.app.forms
         
 
         //string connectionString = @"server=localhost; userid=root; password=Diamante1020*; database=dynait;";       // cadena de conexion hacia mysql
-        static string connectionString = @"Integrated Security=True;Initial Catalog=DynaIT;Data Source=DESKTOP-L5T5BI3";
+        static string connectionString = @"Server=127.0.0.1,1433;Database=DynaIT;User Id=Lizzie;Password=NADA1234;";
         protected void Page_Load(object sender, EventArgs e)
         {
             //setTimeout("()", 100);
